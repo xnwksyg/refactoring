@@ -1,7 +1,7 @@
-5772dc2 (HEAD -> main, origin/main, origin/HEAD) Complete Task 2.3: Removing the frmt Variable
+4c1875b (HEAD -> main, origin/main, origin/HEAD) Complete Task2.4: Removing Total Volume Credits and Total Amount.
+5772dc2 Complete Task 2.3: Removing the frmt Variable
 7288016 Complete Task2.2: Extracting Volume Credits
 3c707a4 Complete Task2.1: Extracting the switch statement logic
 7f9130c Complete Task 1.2: Git Log
 2964569 Complete Task 1.1: CheckStyle
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
-ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
