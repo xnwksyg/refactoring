@@ -1,7 +1,7 @@
-3c707a4 (HEAD -> main, origin/main, origin/HEAD) Complete Task2.1: Extracting the switch statement logic
+7288016 (HEAD -> main, origin/main, origin/HEAD) Complete Task2.2: Extracting Volume Credits
+3c707a4 Complete Task2.1: Extracting the switch statement logic
 7f9130c Complete Task 1.2: Git Log
 2964569 Complete Task 1.1: CheckStyle
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
-a0124c9 fixing starter file
